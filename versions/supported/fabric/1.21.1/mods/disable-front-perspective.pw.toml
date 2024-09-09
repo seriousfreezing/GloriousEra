@@ -1,0 +1,13 @@
+name = "disable front perspective"
+filename = "disablefrontperspective-1.0.0-fabric+0.100.1+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c8f6df0a75f03c959c04dabbfc22480e13d67889"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5434035
+project-id = 940417

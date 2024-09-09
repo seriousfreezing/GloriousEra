@@ -1,0 +1,7 @@
+enableVsync:false
+resourcePacks:["vanilla","programmer_art","midnightcontrols:legacy","fabric","file/golden-days-base-1.21.x-1.11.0.zip","Old Names.zip"]
+incompatibleResourcePacks:["midnightcontrols:legacy"]
+simulationDistance:5
+biomeBlendRadius:7
+mipmapLevels:0
+gamma:0.0

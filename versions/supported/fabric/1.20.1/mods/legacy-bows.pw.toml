@@ -1,0 +1,13 @@
+name = "Legacy Bows"
+filename = "legacy-bows-1.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "852a449bfa289ff5f466dfaf9692eadc9eb2f31c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4595984
+project-id = 478857

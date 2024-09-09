@@ -1,0 +1,13 @@
+name = "Farlands Reborn"
+filename = "mfarlandsm-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "06b7cb7184c4dac8a4388d4b00cf0659bdad8ae4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4734825
+project-id = 909515

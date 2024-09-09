@@ -1,0 +1,13 @@
+name = "Cluttered Creative"
+filename = "cc-2.0.0+1.21-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8d8e7f898d516f6dfac06db7c2c6da0a9a105925"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5532125
+project-id = 901062

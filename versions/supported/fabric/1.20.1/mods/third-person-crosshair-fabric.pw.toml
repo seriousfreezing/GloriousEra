@@ -1,0 +1,13 @@
+name = "Third Person Crosshair [Fabric]"
+filename = "ThirdPersonCrosshair-1.20.1-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4ece221cc600de50d8f7ae76ec03b7285b567573"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4729180
+project-id = 465433

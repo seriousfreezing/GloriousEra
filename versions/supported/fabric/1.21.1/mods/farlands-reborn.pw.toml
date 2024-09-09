@@ -1,0 +1,13 @@
+name = "Farlands Reborn"
+filename = "farlandsreborn-fabric-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a6ffdca7673c7a1caabcabe8802d062c66dce7fd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5537226
+project-id = 909515

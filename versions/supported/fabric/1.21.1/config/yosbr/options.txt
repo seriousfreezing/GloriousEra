@@ -1,0 +1,6 @@
+enableVsync:false
+resourcePacks:["programmer_art","midnightcontrols:legacy"]
+simulationDistance:5
+biomeBlendRadius:7
+mipmapLevels:0
+gamma:0.0
