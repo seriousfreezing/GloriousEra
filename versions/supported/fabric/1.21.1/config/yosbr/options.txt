@@ -1,5 +1,5 @@
 enableVsync:false
-resourcePacks:["programmer_art","midnightcontrols:legacy"]
+resourcePacks:["programmer_art","midnightcontrols:legacy","file/golden-days-base-1.21.x-1.11.0.zip"]
 simulationDistance:5
 biomeBlendRadius:7
 mipmapLevels:0
