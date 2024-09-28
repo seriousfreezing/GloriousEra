@@ -13,8 +13,13 @@ This guide uses ATLauncher as an example, you may be able to do this with other 
 4. Go to the instance settings and then to the commands tab.
 5. [Click on “Enable commands?” and add this command line to the pre-launch:](https://i.imgur.com/4me9igA.png)
 
-    - `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/seriousfreezing/GloriousEra/refs/heads/main/versions/supported/fabric/1.xx.x/pack.toml` (Change to the version you want.)
+    - `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/seriousfreezing/GloriousEra/refs/heads/main/versions/supported/fabric/1.21.1/pack.toml`
+    (Change to the version you want.)
 
 6. [Add the mods mentioned in the description to this repository folder:](https://i.imgur.com/ULsBt7T.png)
 `./versions/supported/fabric/1.xx.x/`
+
+    - [Click here to be redirected](https://github.com/seriousfreezing/GloriousEra/tree/main/versions/supported/fabric)
 7. You're ready to play!
+
+**If you have any problems or questions, go to the [Packwiz wiki](https://packwiz.infra.link/tutorials/creating/getting-started/) or contact them on their [discord server.](https://discord.gg/DcSkRF4)**
