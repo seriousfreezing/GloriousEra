@@ -7,7 +7,7 @@ In addition to the experience, the modpack is designed to be as light as possibl
 # 🛠️📖Installation Guide
 This guide uses ATLauncher as an example, you may be able to do this with other launchers but the step-by-step will change.
 
-To install the modpack, follow these steps:
+To install the modpack from source, follow these steps:
 
 1. [Download this.](https://github.com/packwiz/packwiz-installer-bootstrap/releases)
 2. Create an instance for Minecraft 1.xx.x with Fabric.
