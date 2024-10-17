@@ -10,7 +10,7 @@ hash = "2917a8f8112e36e27b240bdbe0e6987c5e8b0964595ed42ca2fbe1b16350df71"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
-hash = "717a4eefe455237d0d267d1339d9d44ff58a306db14c0b83f6752bdb994a9505"
+hash = "487f4add0a8fa4af2abe6edec7ad8c4ac835aa11c5f05fc16f0c0c1fceaee8d2"
 
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
@@ -27,6 +27,10 @@ hash = "050834eee7e592959c04afa0de4157077575f4d715cd4a22a96b8ada97d9975b"
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
+
+[[files]]
+file = "config/yosbr/config/global_data_and_resourcepacks.toml"
+hash = "0ffdb13c7b6cfbb8e5a4a64eaab9a4b6f8d582b45233ff8282f581f3770a1191"
 
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
@@ -47,6 +51,10 @@ hash = "a8e2e2d640e9d7b6992ca25c69a5225e3840663f2b23b91432ad95456b8d0733"
 [[files]]
 file = "config/yosbr/config/nostalgic_tweaks/nostalgic_tweaks.json"
 hash = "cb0865241244bb7b99171159c5f9dbdd635720c90858eacf741e91a589f180a1"
+
+[[files]]
+file = "config/yosbr/config/resourcepackoverrides.json"
+hash = "e3a9d5ca9b72134ac3cb9f6fafca4bb7f630b5481da34a1b31d63267f17e4152"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -70,11 +78,7 @@ hash = "80832eb870ca09a58a6f576e41358acf34afdaa4ec7b0c913063ea94a9e56052"
 
 [[files]]
 file = "global_packs/required_data/Beting.zip"
-hash = "f7e1e88602c638b5e48fc3e70c47a1cece19a8b5b33bc8bc7dca72fd5a14bfeb"
-
-[[files]]
-file = "global_packs/required_resources/Old Names.zip"
-hash = "10c97520d6c69e766c7d0d0be8383295eb2da665038066094364c8901ddaed94"
+hash = "f96654c5f7270569469beeadcea1c5635a012ba376fe49f7a63a50ff1dda18cb"
 
 [[files]]
 file = "mods/OlderSkins-1.0.0.jar"
@@ -89,6 +93,15 @@ metafile = true
 file = "mods/badoptimizations.pw.toml"
 hash = "8ea1e889718bb081514ea3e7324256898eeeaebd73f4c8d020e59881c87badee"
 metafile = true
+
+[[files]]
+file = "mods/beta-nether.pw.toml"
+hash = "d344b5a7c4c5f784f72f11274f07a7228c3b4f4d6414163ffb6ac4ce418e1c02"
+metafile = true
+
+[[files]]
+file = "mods/beta-recipes-1.0.1.jar"
+hash = "3f9d2fd8bded944b07ab56fa5ea940a119ee9de0070aea064ae4c776b3a4b76f"
 
 [[files]]
 file = "mods/classic-minecraft-icon.pw.toml"
@@ -137,12 +150,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9cdc3215713f357d68e22b2c61155b84d361646ee57f2cca90287b52837dbb56"
+hash = "42f074972a20b8fd6376c0c42d09c2e8b88e7f9b120ffbfc36844f7585f37133"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "261283f7a28a695ecc876ee7d3fe82e3f3598b8ec075624f8588f7800a31bf84"
+hash = "987c02c2f31875d512336cccc2f5a9d8bbbb60337a9256fd632f6de25a3c3d62"
 metafile = true
 
 [[files]]
@@ -187,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "bf87266803c4386966e90dc88a99888e3bb6e519d11c18b1edccbec507814b93"
+hash = "8edae1a42bd1ebe3be34b1a0861f684558865315d16b2d94b971c7029fd9efce"
 metafile = true
 
 [[files]]
@@ -224,8 +237,13 @@ hash = "276e7e0b6cb6d9ec075be10a555361e9c8a0c39e02bbb161e3c726cd29ba19c6"
 metafile = true
 
 [[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "a8ef3e495d2bd16435e9617454175c595e91276c1e20c20afaff74a1c21ccfb4"
+metafile = true
+
+[[files]]
 file = "mods/skip-transitions.pw.toml"
-hash = "47638702f1e42bca56e4e8b613e340312164b0c085d5c0f0898dd4154c9ce2a1"
+hash = "4511c2f4ec1c0d80d384290f5fbe5cd8d70c5d535d433a58dc21da1474cf68b2"
 metafile = true
 
 [[files]]
@@ -255,6 +273,10 @@ metafile = true
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "resourcepacks/Old Names.zip"
+hash = "10c97520d6c69e766c7d0d0be8383295eb2da665038066094364c8901ddaed94"
 
 [[files]]
 file = "resourcepacks/golden-days.pw.toml"

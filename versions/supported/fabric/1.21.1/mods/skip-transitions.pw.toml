@@ -1,13 +1,13 @@
 name = "Skip Transitions"
-filename = "skiptransitions-1.4.0+mc1.20.5.jar"
+filename = "skiptransitions-1.4.0+mc1.21.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a2046987a4277d1756be429cd1c2a6d18de981c1"
+hash = "fd775a95322b8bd515f96c7cabcd425164ef442f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5393103
+file-id = 5801893
 project-id = 592071
