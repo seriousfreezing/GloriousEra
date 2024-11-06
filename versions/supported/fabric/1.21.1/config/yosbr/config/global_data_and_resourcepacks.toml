@@ -1,2 +1,2 @@
-[resourcepacks]
-required = []
+[datapacks]
+required = ["datapacks/"]

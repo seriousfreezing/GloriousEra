@@ -1,13 +1,13 @@
 name = "Classic MC Icon"
-filename = "classic-minecraft-icon-mc1.21-fabric-v1.1.3.jar"
+filename = "classic-minecraft-icon-v1.1.4-mc1.21.1-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1f3ebc264dc3f19d6059cbd7180c858229a8b8b6"
+hash = "fc5aac2e93bfdff54dd0fafedb890f0720e27fdf"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5454503
+file-id = 5834587
 project-id = 873049
