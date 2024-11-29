@@ -1,12 +1,12 @@
 name = "Glorious Era"
 author = "SeriousFreezing"
-version = "10.0.0"
+version = "10.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "cca81cde9b6c680f88de03a35f6e0a0b578764f89fcc818d76666a350fe803bc"
+hash = "effbe3f8bc80c054b758241574390d5321f7dd6c532fb5234915e1624fb4a28e"
 
 [versions]
 fabric = "0.16.9"
