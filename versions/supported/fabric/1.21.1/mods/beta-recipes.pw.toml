@@ -1,0 +1,13 @@
+name = "Beta Recipes"
+filename = "beta-recipes-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GWfrxllc/versions/zVhS53eV/beta-recipes-1.0.1.jar"
+hash-format = "sha1"
+hash = "14e7fd0f124c284b8980e654bd1fc9d7a1b31a89"
+
+[update]
+[update.modrinth]
+mod-id = "GWfrxllc"
+version = "zVhS53eV"

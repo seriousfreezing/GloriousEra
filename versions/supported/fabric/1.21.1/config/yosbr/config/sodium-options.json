@@ -1,1 +1,1 @@
-{"performance":{"use_entity_culling":false}}
+{"performance":{"use_entity_culling":false,"leaf_culling_quality":"SOLID"}}

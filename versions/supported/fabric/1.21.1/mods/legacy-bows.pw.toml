@@ -3,11 +3,11 @@ filename = "legacy-bows-1.0.10.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/ufC9L3fI/versions/Gmlf2Dvn/legacy-bows-1.0.10.jar"
 hash-format = "sha1"
 hash = "d03e78a16f7242fcfa8b391d70d1e224e98e48be"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5633142
-project-id = 478857
+[update.modrinth]
+mod-id = "ufC9L3fI"
+version = "Gmlf2Dvn"

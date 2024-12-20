@@ -1,0 +1,13 @@
+name = "Moderner Beta"
+filename = "moderner-beta-2.1.2+1.21-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xkrdwmh2/versions/JTbrZBki/moderner-beta-2.1.2%2B1.21-fabric.jar"
+hash-format = "sha1"
+hash = "3fb6ec464ab619f1faa434f32ebdd0d57efb0797"
+
+[update]
+[update.modrinth]
+mod-id = "xkrdwmh2"
+version = "JTbrZBki"

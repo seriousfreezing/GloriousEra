@@ -1,13 +1,16 @@
-name = "Glorious Era"
+name = "glorious-era"
 author = "SeriousFreezing"
-version = "10.1.0"
+version = "11.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "effbe3f8bc80c054b758241574390d5321f7dd6c532fb5234915e1624fb4a28e"
+hash = "80b8ea0bae7e1e7bb9448beef388911fd9c12db82d104e67668b93bf1aec15a0"
 
 [versions]
 fabric = "0.16.9"
 minecraft = "1.21.1"
+
+[options]
+acceptable-game-versions = ["1.21"]

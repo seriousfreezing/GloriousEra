@@ -1,0 +1,13 @@
+name = "Just Beta Nether"
+filename = "just-beta-nether-V1-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qLJYR7Zo/versions/86wr80qI/just-beta-nether-V1-1.20.jar"
+hash-format = "sha1"
+hash = "599932581c31ff422440d74a5be9356d9d76980c"
+
+[update]
+[update.modrinth]
+mod-id = "qLJYR7Zo"
+version = "86wr80qI"

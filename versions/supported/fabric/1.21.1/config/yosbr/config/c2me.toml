@@ -15,6 +15,12 @@ defaultGlobalExecutorParallelismExpression = "max(1,min(if(is_client,(cpus/2.66+
 	
 [ioSystem]
 	gcFreeChunkSerializer = true
-		
-[chunkSystem]
-	syncPlayerTickets = false
+
+[threadedWorldGen]
+	enabled = true
+	
+[vanillaWorldGenOptimizations]
+	useDensityFunctionCompiler = true
+	
+	[vanillaWorldGenOptimizations.nativeAcceleration]
+		enabled = true
