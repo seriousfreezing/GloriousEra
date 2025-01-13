@@ -1,0 +1,13 @@
+name = "Legacy Bows"
+filename = "legacy-bows-1.0.13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ufC9L3fI/versions/DXWly65O/legacy-bows-1.0.13.jar"
+hash-format = "sha1"
+hash = "282226a49fd1db7e7274af8d195f9523b1b995ee"
+
+[update]
+[update.modrinth]
+mod-id = "ufC9L3fI"
+version = "DXWly65O"

@@ -1,0 +1,13 @@
+name = "The Open Sauce Toast Killer"
+filename = "OpenSauceToastKiller.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DoJ9HqFj/versions/yVqxMY32/OpenSauceToastKiller.jar"
+hash-format = "sha1"
+hash = "79bacc90ca7a1172676774f9f3cfe52e46fc63b1"
+
+[update]
+[update.modrinth]
+mod-id = "DoJ9HqFj"
+version = "yVqxMY32"

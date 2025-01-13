@@ -1,0 +1,13 @@
+name = "No Raw Ore"
+filename = "no-raw-ore-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ib39gP36/versions/st2K1CKZ/no-raw-ore-1.jar"
+hash-format = "sha1"
+hash = "fb284664b129bc8ae584a51b9d9d5eb227ceccd5"
+
+[update]
+[update.modrinth]
+mod-id = "Ib39gP36"
+version = "st2K1CKZ"

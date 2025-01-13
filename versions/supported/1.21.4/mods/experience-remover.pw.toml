@@ -1,0 +1,13 @@
+name = "Experience Remover"
+filename = "experience-remover-1.0.13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DhzNNCIg/versions/LMZUaskK/experience-remover-1.0.13.jar"
+hash-format = "sha1"
+hash = "b9a3a73a0362022eaa7d71402c8a57d1462dd328"
+
+[update]
+[update.modrinth]
+mod-id = "DhzNNCIg"
+version = "LMZUaskK"

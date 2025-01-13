@@ -1,0 +1,13 @@
+name = "No More Nether Gold Ore"
+filename = "no-more-nether-gold-ore-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k7JZ7nRF/versions/mvsY9XnD/no-more-nether-gold-ore-1.0.1.jar"
+hash-format = "sha1"
+hash = "dc8b365170222d4273a2e703046b4bdb02d788ef"
+
+[update]
+[update.modrinth]
+mod-id = "k7JZ7nRF"
+version = "mvsY9XnD"

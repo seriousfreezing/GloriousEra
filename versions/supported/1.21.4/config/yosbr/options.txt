@@ -1,0 +1,8 @@
+enableVsync:false
+simulationDistance:8
+resourcePacks:["programmer_art","file/[1.21.x]ProgrammerArtFix-rv3.1.zip","file/C4Music_v4.0.zip"]
+incompatibleResourcePacks:["file/C4Music_v4.0.zip"]
+biomeBlendRadius:7
+mipmapLevels:0
+gamma:0.0
+menuBackgroundBlurriness:0
